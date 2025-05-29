@@ -4,9 +4,7 @@ import AppBarChart from "@/components/AppBarChart";
 import { AreaChartComponent } from "@/components/AreaCharts";
 import CardList from "@/components/CardList";
 import { PieChartComponent } from "@/components/PiChart";
-// import { RadarLineChart } from "@/components/RadarLineChart";
 import { RadialChartComponent } from "@/components/RadialChart";
-import { Button } from "@/components/ui/button";
 import React from "react";
 
 const Home = () => {

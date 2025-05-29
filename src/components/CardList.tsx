@@ -1,7 +1,6 @@
 import React from "react";
 import { Card, CardContent, CardFooter, CardTitle } from "./ui/card";
 import Image from "next/image";
-import { Badge } from "./ui/badge";
 
 const CardList = ({ title }: { title: String }) => {
   const popularContent = [

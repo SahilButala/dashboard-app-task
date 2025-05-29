@@ -4,7 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import SideBar from "@/components/SideBar";
 import { ThemeProvider } from "@/components/provider/ThemProvider";
-import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
+import { SidebarProvider } from "@/components/ui/sidebar";
 import { cookies } from "next/headers";
 
 const geistSans = Geist({
