@@ -1,3 +1,35 @@
+# 📊 Analytics Dashboard
+
+A modern, responsive analytics dashboard built with **Next.js**, **Tailwind CSS**, and **shadcn/ui**. It visualizes dynamic data using interactive charts and a clean user interface.
+
+---
+
+## 🚀 Live Demo
+
+[Check out the live demo](https://dashboard-app-task.onrender.com/)
+
+
+## 🚀 Features
+
+- 🔢 **Metric Cards** with click-to-expand (modal/sheet)
+- 📈 **Interactive Charts** (Bar, Area, Pie, Radial)
+- ⚡ **Fast & Optimized** using lazy loading, memoization
+- 🎨 **Modern Dark UI** with shadcn components
+- 📱 **Responsive Design** (Desktop-focused)
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech        | Description                         |
+|-------------|-------------------------------------|
+| Next.js     | React framework for SSR + routing   |
+| Tailwind CSS| Utility-first CSS framework         |
+| shadcn/ui   | Accessible UI components            |
+| Recharts / Chart.js | Chart rendering library    |
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
